@@ -1,0 +1,11 @@
+-r base.txt
+
+black
+
+isort
+
+pytest
+
+pytest-asyncio
+
+httpx
